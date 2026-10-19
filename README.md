@@ -1,10 +1,11 @@
 # 📊 Pipeline ETL e dashboard de gestão financeira condominial
 
 > Solução de ponta a ponta que automatiza a extração e o tratamento de relatórios contábeis complexos de administradoras.
+---
 Um pipeline em Python (Google Colab) faz a ingestão e a normalização, carrega os dados no Google Sheets e alimenta um dashboard interativo no Looker Studio.
 O foco é auditar o fluxo de caixa, acompanhar séries históricas de créditos e débitos, controlar a inadimplência e apoiar planos de ação para recuperar o caixa ordinário.
 Python, Pandas, Google Sheets API, Looker Studio, ETL, Análise estatística
----
+
 
 ## 🌐 Acesse o Portfólio Online
 Você pode visualizar a versão interativa e completa deste portfólio diretamente pelo link:
