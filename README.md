@@ -9,7 +9,7 @@ Python, Pandas, Google Sheets API, Looker Studio, ETL, Análise estatística
 
 ## 🌐 Acesse o Portfólio Online
 Você pode visualizar a versão interativa e completa deste portfólio diretamente pelo link:
-👉 **[https://davisonoliveira-netizen.github.io](https://davisonesoliveira-netizen.github.io/davisonoliveira-netizen.github.io/)**
+👉 **https://datastudio.google.com/reporting/25204edf-ddbf-4e9c-af24-a505af16a6ae/page/jWyAG**
 
 ---
 
