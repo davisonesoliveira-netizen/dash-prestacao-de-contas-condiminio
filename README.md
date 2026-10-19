@@ -27,6 +27,9 @@ Você pode visualizar este dashboard diretamente pelo link:
 
 2. **Dashboad**
    *  Modelagem de visualização interativa no Looker Studio. Focado em auditoria de fluxo de caixa, controle de inadimplência e apoio a planos de ação gerenciais.
+  
+3. **Finalidade**
+   *  Focado em auditoria de fluxo de caixa, controle de inadimplência e apoio a planos de ação gerenciais. Permite observar custos e receitas por centro de custo (contas), lançamentos detalhados por nota fiscal.
 
 ---
 
