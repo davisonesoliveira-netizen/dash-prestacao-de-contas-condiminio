@@ -22,14 +22,14 @@ Você pode visualizar este dashboard diretamente pelo link:
 
 ## 🚀 Principais Projetos Exibidos
 
-1. **Pipeline ETL**
+1. **Finalidade**
+   *  Focado em auditoria de fluxo de caixa, controle de inadimplência e apoio a planos de ação gerenciais. Permite observar custos e receitas por centro de custo (contas), lançamentos detalhados por nota fiscal.
+
+2. **Pipeline ETL**
    * Solução de ponta a ponta para automação de extração, tratamento de dados contábeis complexos (via Python / Google Colab) e carga estruturada em Google Sheets.
 
-2. **Dashboad**
+3. **Dashboad**
    *  Modelagem de visualização interativa no Looker Studio. Focado em auditoria de fluxo de caixa, controle de inadimplência e apoio a planos de ação gerenciais.
-  
-3. **Finalidade**
-   *  Focado em auditoria de fluxo de caixa, controle de inadimplência e apoio a planos de ação gerenciais. Permite observar custos e receitas por centro de custo (contas), lançamentos detalhados por nota fiscal.
 
 ---
 
