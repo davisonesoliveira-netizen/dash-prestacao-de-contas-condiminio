@@ -13,20 +13,20 @@ Você pode visualizar este dashboard diretamente pelo link:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas na Construção do Site
-* **Frontend:** HTML5, CSS3 (com design responsivo e customizado via variáveis CSS)
-* **Tipografia:** Google Fonts (Inter)
-* **Hospedagem:** GitHub Pages
+## 🛠️ Tecnologias Utilizadas
+* **Frontend:** Looker Studio
+* **Dados:** Google Sheets
+* **Engenharia de dados:** Python/Google Colab
 
 ---
 
 ## 🚀 Principais Projetos Exibidos
 
-1. **Pipeline ETL & Dashboard de Gestão Financeira Condominial**
-   * *Descrição:* Solução de ponta a ponta para automação de extração, tratamento de dados contábeis complexos (via Python / Google Colab), carga estruturada em Google Sheets e modelagem de visualização interativa no Looker Studio. Focado em auditoria de fluxo de caixa, controle de inadimplência e apoio a planos de ação gerenciais.
+1. **Pipeline ETL**
+   * Solução de ponta a ponta para automação de extração, tratamento de dados contábeis complexos (via Python / Google Colab) e carga estruturada em Google Sheets.
 
-2. **Modelagem Estatística de Séries Temporais (Em Breve)**
-   * *Descrição:* Aplicação de metodologias econométricas (SARIMAX, VAR) para projeção de cenários orçamentários e previsão de comportamento financeiro.
+2. **Dashboad**
+   *  Modelagem de visualização interativa no Looker Studio. Focado em auditoria de fluxo de caixa, controle de inadimplência e apoio a planos de ação gerenciais.
 
 ---
 
